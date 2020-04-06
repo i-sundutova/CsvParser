@@ -1,0 +1,9 @@
+D:\projects\MI.CsvParser\MI.CsvParser\bin\Debug\netstandard2.0\MI.CsvParser.deps.json
+D:\projects\MI.CsvParser\MI.CsvParser\bin\Debug\netstandard2.0\MI.CsvParser.dll
+D:\projects\MI.CsvParser\MI.CsvParser\bin\Debug\netstandard2.0\MI.CsvParser.pdb
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.csprojAssemblyReference.cache
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.AssemblyInfoInputs.cache
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.AssemblyInfo.cs
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.dll
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.pdb
+D:\projects\MI.CsvParser\MI.CsvParser\obj\Debug\netstandard2.0\MI.CsvParser.csproj.CoreCompileInputs.cache
